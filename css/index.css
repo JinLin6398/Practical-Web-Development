@@ -1,5 +1,22 @@
 body {
-  font-family: Gill Sans, sans-serif;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Gill Sans', 'Noto Sans', sans-serif;
   background-color: salmon;
   text-align: center;
+  font-style: italic;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.header-1 {
+  border: 10px solid #c03434;
+  background-color: rgb(235, 154, 31); 
+}
+
+.header-2 {
+  border: 10px solid #c03434;
+  margin-left: 35%;
+  margin-right: 35%;
+  background-color: rgb(235, 154, 31); 
 }
