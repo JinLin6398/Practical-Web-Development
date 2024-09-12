@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(242, 200, 238);
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+  
+img {
+    width: 700px;
+    height: 400px;
+    object-fit: cover;
+}
