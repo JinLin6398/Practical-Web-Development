@@ -10,3 +10,9 @@ body {
     background-color: rgb(214, 238, 255);
     text-align: center;
   }
+
+img {
+    width: 700px;
+    height: 400px;
+    object-fit: cover;
+  }
