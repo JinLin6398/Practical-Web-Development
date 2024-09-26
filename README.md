@@ -1,5 +1,5 @@
 # Practical-Web-Development
-[Welcome to Jin and Gael's and Yaritza's Zoo](https://jinlin6398.github.io/Zoo-Project/)
+[Welcome to Wild Wonders Zoo](https://jinlin6398.github.io/Zoo-Project/)
 
 ## Team Members:
 - Jin Lin (JinLin6398)
