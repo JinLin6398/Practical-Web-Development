@@ -30,3 +30,17 @@ body {
     color: #f4fc09;
     margin-top: 10px;
   }
+
+  .back-to-home {
+    position: absolute;
+    top: 10%;
+    left: 40%;
+}
+
+  .back-to-home a {
+    padding: 20px 40px;
+    background-color: #007BFF;
+    color: white;
+    font-size: 30px;
+    border-radius: 5px; 
+  }
